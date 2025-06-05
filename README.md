@@ -81,3 +81,4 @@ merged_on_view_df['DateAcquired'] = pd.to_datetime(merged_on_view_df['DateAcquir
 ```
 
 **VALUE COUNTS (OCCURANCES)**
+![Screenshot 2025-06-05 at 6.44.20 PM.png](attachment:1eea6a00-b381-499f-880e-03bdc3891f91:Screenshot_2025-06-05_at_6.44.20_PM.png)
